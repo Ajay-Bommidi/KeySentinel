@@ -1,0 +1,4 @@
+pynput  # Captures keyboard input
+colorama  # Adds colored output to the CLI
+pyfiglet  # Generates ASCII banners for aesthetics
+datetime  # Handles timestamps (built-in, but included for reference)
