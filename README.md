@@ -24,8 +24,7 @@ Ensure you have Python installed, then clone the repository and install dependen
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/SimpleKeylogger.git
-cd SimpleKeylogger
+https://github.com/Ajay-Bommidi/PRODIGY_CS_04.git
 
 # Install required dependencies
 pip install -r requirements.txt
