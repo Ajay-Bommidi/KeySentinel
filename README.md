@@ -24,9 +24,10 @@ Ensure you have Python installed, then clone the repository and install dependen
 
 ```sh
 # Clone the repository
-https://github.com/Ajay-Bommidi/KeySentinel.git
-
+sudo git clone https://github.com/Ajay-Bommidi/KeySentinel.git
+```
 # Install required dependencies
+```sh
 pip install -r requirements.txt
 ```
 
