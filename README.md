@@ -21,6 +21,10 @@ This tool is designed **strictly for ethical purposes**, such as:
 
 ## 🛠 Installation
 Ensure you have Python installed, then clone the repository and install dependencies:
+```sh
+sudo python3 -m venv myenv
+source myenv/bin/activate
+```
 
 ```sh
 # Clone the repository
