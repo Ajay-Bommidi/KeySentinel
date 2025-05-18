@@ -24,7 +24,7 @@ Ensure you have Python installed, then clone the repository and install dependen
 
 ```sh
 # Clone the repository
-https://github.com/Ajay-Bommidi/PRODIGY_CS_04.git
+https://github.com/Ajay-Bommidi/KeySentinel.git
 
 # Install required dependencies
 pip install -r requirements.txt
