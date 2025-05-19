@@ -29,6 +29,7 @@ source myenv/bin/activate
 ```sh
 # Clone the repository
 sudo git clone https://github.com/Ajay-Bommidi/KeySentinel.git
+cd KeySentinel
 ```
 # Install required dependencies
 ```sh
