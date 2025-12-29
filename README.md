@@ -1,7 +1,10 @@
 # 🔑 Simple Keylogger - Ethical Key Tracking Tool
 
-## 🚀 Introduction
+## (working) For Windows simple keyloger workking demonstration..
+
+##  Introduction
 The **Simple Keylogger** is a lightweight and interactive keystroke logging tool designed for ethical and authorized use. It captures and logs keystrokes, saving them to a file for analysis. This project focuses on **security research, parental control, and personal key tracking**, ensuring transparency and ethical usage.
+
 ![Screenshot 2025-03-10 204232](https://github.com/user-attachments/assets/1c8df97c-4430-4896-834c-86998a0b5c6e)
 
 ## 🎯 Features
